@@ -1,4 +1,4 @@
-About me
+**About me**
 
 - 💼 QA Engineer (курс QA Artsiom Rusau)
 - 📈 Изучаю GitBush, Postman, Oracle SQL Developer, DevTools, Jira, Charles, Fiddler, JMeter;
