@@ -8,7 +8,7 @@
 [![Yandex Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/50px-Yandex_Mail_icon.svg.png)](mailto:nik.osipov2011@yandex.ru)
 [![Head Hunter](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/50px-HeadHunter_logo.png)](https://volgograd.hh.ru/resume/32a3f5f8ff0b3811960039ed1f4f566b4a6e74)
 
-### Pinned Repositories:
+### 📌Pinned Repositories:
 <a href="https://github.com/KunxY174/SQL">
   <img align="center" style="margin:1rem 0.5rem" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/50px-Oracle_SQL_Developer_logo.svg.png" />
 </a>
@@ -18,7 +18,6 @@
 <a href="https://github.com/KunxY174/Web-testing">
   <img align="center" style="margin:1rem 0.5rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/High-contrast-applications-internet.svg/50px-High-contrast-applications-internet.svg.png" />
 </a>
-
 
 <details>
 <summary>⚡GitHub Activity</summary>
