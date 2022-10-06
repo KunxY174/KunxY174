@@ -4,7 +4,7 @@
 - 📈 Изучаю GitBush, Postman, Oracle SQL Developer, DevTools, Jira, Charles, Fiddler, JMeter;
 - 📚 Прочитал книги "Тестирование Дот Ком" Романа Савина, "Что такое тестирование" Ольги Назиной, "Тестирование программного обеспечения. Базовый курс" Святослава Куликова;
 ### Сonnect with me:
-[![Telegram Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/50px-Telegram_2019_Logo.svg.png)](https://twitter.com/BraydonCoyer)
+[![Telegram Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/50px-Telegram_2019_Logo.svg.png)](https://t.me/KunxY)
 [![Yandex Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Yandex_Mail_icon.svg/50px-Yandex_Mail_icon.svg.png)](mailto:nik.osipov2011@yandex.ru)
 [![Head Hunter](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/50px-HeadHunter_logo.png)](https://volgograd.hh.ru/resume/32a3f5f8ff0b3811960039ed1f4f566b4a6e74)
 
