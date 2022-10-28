@@ -7,7 +7,6 @@
 [![SQL](https://img.shields.io/badge/-SQL-%23002365?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/KunxY174/SQL)
 [![Web-Testing](https://img.shields.io/badge/-Web--Testing-%23002365?style=for-the-badge&logo=internetexplorer)](https://github.com/KunxY174/Web-testing)
 [![Mobile Testing](https://img.shields.io/badge/-Mobile--Testing-%23002365?style=for-the-badge&logo=androidstudio)](https://github.com/KunxY174/Mobile-Testing)
-[![DevTools](https://img.shields.io/badge/-DevTools-%23002365?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/KunxY174/DevTools)
 [![API](https://img.shields.io/badge/-Postman-%23002365?style=for-the-badge&logo=postman )](https://github.com/KunxY174/API)
 ### ⚡Сonnect with me⚡
 [![Telegram](https://img.shields.io/badge/-Telegram-%23002365?style=for-the-badge&logo=Telegram)](https://t.me/KunxY)
