@@ -12,6 +12,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-%23002365?style=for-the-badge&logo=Telegram)](https://t.me/KunxY)
 [![Email](https://img.shields.io/badge/-E--mail-%23002365?style=for-the-badge&logo=aboutdotme&logoColor=white)](mailto:nik.osipov2011@yandex.ru)
 [![Head Hunter](https://img.shields.io/badge/-Head%20Hunter-%23002365?style=for-the-badge&logo=hackclub&logoColor=white)](https://volgograd.hh.ru/resume/32a3f5f8ff0b3811960039ed1f4f566b4a6e74)
+[![Habr Career](https://img.shields.io/badge/-Habr%20Career-%23002365?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/kunxy)
 
 [![KunxY174's github stats](https://github-readme-stats.vercel.app/api?username=KunxY174&show_icons=true&theme=discord_old_blurple)](https://github.com/KunxY174/github-readme-stats)
 
